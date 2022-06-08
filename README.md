@@ -6,6 +6,9 @@
 ### SimSwap
 [code](https://github.com/neuralchen/SimSwap)
 
+### MobileFaceSwap
+[code](https://github.com/Seanseattle/MobileFaceSwap)
+
 ### HiFiFace
 [code](https://github.com/mindslab-ai/hififace)
 
