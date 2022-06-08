@@ -1,10 +1,10 @@
 # Awesome Face Swap Papers
 
-### FaceSwapper
-[code](https://github.com/liqi-casia/faceswapper)
-
 ### SimSwap
 [code](https://github.com/neuralchen/SimSwap)
+
+### FaceSwapper
+[code](https://github.com/liqi-casia/faceswapper)
 
 ### MobileFaceSwap
 [code](https://github.com/Seanseattle/MobileFaceSwap)
