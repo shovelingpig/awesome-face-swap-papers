@@ -3,6 +3,9 @@
 ### FaceSwapper
 [code](https://github.com/liqi-casia/faceswapper)
 
+### SimSwap
+[code](https://github.com/neuralchen/SimSwap)
+
 ### HiFiFace
 [code](https://github.com/mindslab-ai/hififace)
 
